@@ -1,7 +1,6 @@
 [
   {
     "name": "ARGENTINA",
-    "mode": false,
     "lista": [
       {
         "icon": "https://www.clarin.com/img/2022/09/27/gran-hermano-2022-el-reality___9FXtYKoum_2000x1500__1.jpg",
@@ -165,7 +164,6 @@
   },
   {
     "name": "INTERIOR DE ARGENTINA",
-    "mode": false,
     "lista": [
       {
         "icon": "https://pbs.twimg.com/profile_images/1532029271610376193/CouxLUR6_400x400.jpg",
@@ -671,7 +669,6 @@
   },
   {
     "name": "DEPORTIVOS",
-    "mode": false,
     "lista": [
       {
         "icon": "https://i.imgur.com/OmA17NY.jpg",
@@ -1068,7 +1065,6 @@
   },
   {
     "name": "CANALES INFANTILES",
-    "mode": false,
     "lista": [
       {
         "icon": "https://www.pngitem.com/pimgs/m/19-193514_dream-world-logo-png-transparent-png.png",
@@ -1243,7 +1239,6 @@
   },
   {
     "name": "PACK PREMIUM (HBO/UNIVERSAL)",
-    "mode": false,
     "lista": [
       {
         "icon": "https://static.dplay.tech/imagenes/hbo.png",
@@ -1431,7 +1426,6 @@
   },
   {
     "name": "CINE",
-    "mode": false,
     "lista": [
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",
@@ -1657,7 +1651,6 @@
   },
   {
     "name": "CINE 2",
-    "mode": false,
     "lista": [
       {
         "icon": "https://blog.flamingtext.com/blog/2022/07/22/flamingtext_com_1658507618_79272422.png",
@@ -1788,7 +1781,6 @@
   },
   {
     "name": "SECCION VIX",
-    "mode": false,
     "lista": [
       {
         "icon": "https://www.apkmirror.com/wp-content/uploads/2019/07/5d3f169851bea.png",
@@ -2189,7 +2181,6 @@
   },
   {
     "name": "VARIOS CANALES OPCIONALES",
-    "mode": false,
     "lista": [
       {
         "icon": "https://i2.paste.pics/8a3218def129b372d3c596ac36942e40.png",
@@ -2387,7 +2378,6 @@
   },
   {
     "name": "RELIGIOSO",
-    "mode": false,
     "lista": [
       {
         "icon": "https://lh3.googleusercontent.com/-5ca98mWuI48/X1BU1VE-fFI/AAAAAAAA5MM/DPmAa2uFmTIH4MOJAVpjUCCClixnPOP7QCK8BGAsYHg/s0/2020-09-02.png",
@@ -2523,7 +2513,6 @@
   },
   {
     "name": "CULTURALES",
-    "mode": false,
     "lista": [
       {
         "icon": "https://static.dplay.tech/imagenes/history.png",
@@ -2634,7 +2623,6 @@
   },
   {
     "name": "NOVELAS y VARIEDADES",
-    "mode": false,
     "lista": [
       {
         "icon": "https://static.dplay.tech/imagenes/bravotv.png",
@@ -2827,7 +2815,6 @@
   },
   {
     "name": "MUSICA",
-    "mode": false,
     "lista": [
       {
         "icon": "https://static.dplay.tech/imagenes/quiero.png",
@@ -3104,7 +3091,6 @@
   },
   {
     "name": "ADULTOS XXX 18+",
-    "mode": false,
     "lista": [
       {
         "icon": "https://static.flow.com.ar/images/861/CH_LOGO/350/500/0/0/1187688407114.png",
@@ -3221,7 +3207,6 @@
   },
   {
     "name": "ADULTOS XXX 18+",
-    "mode": false,
     "lista": [
       {
         "icon": "http://goo.gl/opwwNi",
@@ -3282,7 +3267,6 @@
   },
   {
     "name": "TELEVISION INTERNACIONAL",
-    "mode": false,
     "lista": [
       {
         "icon": "https://static.dplay.tech/imagenes/cnnespanol.png",
@@ -3401,7 +3385,6 @@
   },
   {
     "name": "RADIOS",
-    "mode": false,
     "lista": [
       {
         "icon": "https://aermultinet.com/iptv/logos/retrohit.png",
@@ -3492,7 +3475,6 @@
   },
   {
     "name": "PARAGUAY",
-    "mode": false,
     "lista": [
       {
         "icon": "https://forum.panasef.com/wp-content/uploads/2018/12/Icono-11.png",
@@ -3627,7 +3609,6 @@
   },
   {
     "name": "URUGUAY",
-    "mode": false,
     "lista": [
       {
         "icon": "https://i.ibb.co/Tbhgmz4/UCL.png",
@@ -3673,7 +3654,6 @@
   },
   {
     "name": "BRASIL",
-    "mode": false,
     "lista": [
       {
         "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCsZ8M5ui__Tq98b0zSeGG5q3iNdq4h3okbPPAs7GjKCBOWhD1dVVT739fWHRdLr-mAIs&usqp=CAU",
@@ -3773,7 +3753,6 @@
   },
   {
     "name": "BOLIVIA",
-    "mode": false,
     "lista": [
       {
         "icon": "https://lh3.googleusercontent.com/-7SXvBoxEU7U/YIoR7EX9WEI/AAAAAAABCCM/vilu9iV1RDcjDOT5ksg9xvMyyjceKWRowCK8BGAsYHg/s512/2021-04-28.png",
@@ -3924,7 +3903,6 @@
   },
   {
     "name": "PERU",
-    "mode": false,
     "lista": [
       {
         "icon": "https://bestcableperu.com.pe/img/logo/logo.png",
@@ -4170,7 +4148,6 @@
   },
   {
     "name": "CHILE",
-    "mode": false,
     "lista": [
       {
         "icon": "https://i2.paste.pics/c04bad5b9339444b2acb44912d04b0a7.png",
@@ -4338,7 +4315,6 @@
   },
   {
     "name": "ESPAÑA",
-    "mode": false,
     "lista": [
       {
         "icon": "http://directostv.teleame.com/wp-content/uploads/2017/09/tvg-100x70.png",
@@ -4686,7 +4662,6 @@
   },
   {
     "name": "MEXICO",
-    "mode": false,
     "lista": [
       {
         "icon": "https://static.wikia.nocookie.net/tv-azteca/images/6/67/Azcinema.png/revision/latest?cb=20200402025656&path-prefix=es",
@@ -4761,7 +4736,6 @@
   },
   {
     "name": "DEPORTE MEXICO",
-    "mode": false,
     "lista": [
       {
         "icon": "https://laopinion.com/wp-content/uploads/sites/3/2016/03/liga_mx_logo.png?w=600",
@@ -4797,7 +4771,6 @@
   },
   {
     "name": "VIDEOS MUSICALES",
-    "mode": false,
     "lista": [
       {
         "icon": "https://www.kodinerds.net/index.php/Attachment/9910-Music-Video-Mix-png/?thumbnail=1",
