@@ -1230,6 +1230,13 @@
         "drm_license_url": "+zhikQeuRz8wLhnd3+//XsBF6N0pFY5SseKmjl05z1B8DKKTVztOnVyGrjhun5vmrKprBpBpFR2+yRj19RZdEMCT94XtDVlIb/mJ1AmY6EohYAJahZI10wCTsp2I7PwWTwBi1recIds1+mL0eZFikvGZHcwm7kOnA5b16wqezB01Scfm0vs7QDvv3lizZBEzkEkiGxcQytuzt1mJL98ylQ=="
       },
       {
+        "icon": "https://i.ibb.co/KsX2ZS9/ar-hbo-2-m.png",
+        "name": "HBO 2",
+        "drm_scheme": "clearkey",
+        "uri": "KDy8EaMPS2zEX5FTzYwK3Fdz2XbNlk9rqhlLa/EhVbw9tUzMn2AMoFqzDLhfWL144klg+w77fV9NjbrQY8YXkc5L9K5aW5FQSqjfQccXTjc=",
+        "drm_license_url": "0RjFW6k2PwDsQhYehlLTTkljvupitqCAWM2QBJIdFMVzXgKDoztlotvHNWvimb+cD6dDypcsqJyz5Nh2lTcSHVFJOEXoRn8FpS8jxWeIV/LKZWynGZgA66aW+A2Ur1BUfcR8MhYwuySUNIhbz+12GAk9Jo3e1xyWnydH3H3lvA9w7YwnrWzs9vRj6vvEnfP2caTDi3ilI+BqXyHN4rUNDw=="
+      },
+      {
         "icon": "https://static.dplay.tech/imagenes/hbofamily.png",
         "name": "HBO FAMILY",
         "drm_scheme": "clearkey",
